@@ -1,0 +1,29 @@
+{
+  "name": "threejs-react-hooks-example",
+  "version": "1.0.0",
+  "description": "fork it and use as a template for your questions or experiments.",
+  "keywords": [],
+  "main": "src/index.js",
+  "dependencies": {
+    "react": "16.8.3",
+    "react-dom": "16.8.3",
+    "react-scripts": "2.1.8",
+    "stats.js": "0.17.0",
+    "three": "0.103.0"
+  },
+  "devDependencies": {
+    "typescript": "3.3.3"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ]
+}
